@@ -22,7 +22,7 @@ int main(void)
 		(d <= 'z') {
 			putchar(c);
 			d++;
-		}	
+		}
 	putchar('\n');
 	return (0);
 }
